@@ -6,9 +6,9 @@ import math
 #name = input('Enter your name: ')
 #print('Your name is ' + name)
 
-#x = int(input('введите число: '))
-#y = 5
-#print(x+y)
+x = int(input('введите число: '))
+y = 5
+print(x+y)
 
 #import math
 #seats = False
@@ -27,13 +27,22 @@ import math
 #substring = text[1:-1]
 #print(substring)
 
-x = 5
-y = 'Hello'
-print(f'{x} + {y}')
+#x = 5
+#y = 'Hello'
+#print(f'{x} + {y}')
 
-x = 5
-print(x)
-x = 5+5
-print(x)
-x += 5
-print(x)
+#x = 5
+#print(x)
+#x = 5+5
+#print(x)
+#x += 5
+#print(x)
+
+#name = 'van'
+#age = 30
+#formatted_string = f'my name is {name} and I\'m {age} years old.'
+#print(formatted_string)
+
+#price = 19.99
+#formatted_price = 'the price is: {:.2f}'.format(price)
+#print(formatted_price)
